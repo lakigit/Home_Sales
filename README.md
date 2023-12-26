@@ -15,4 +15,9 @@ Based on the output provided, it can be observed that the maximum average price 
 02. 
 ![image](https://github.com/lakigit/Home_Sales/assets/138610916/daa640e8-3c92-4443-9d1b-61d9a3b68e24)
 
-Based on the output, it can be inferred that the average price of a property does not exhibit significant variation for the number of bedrooms and bathrooms.
+Based on the output, it can be inferred that the average price of a property does not exhibit significant variation for the number of bedrooms(3) and bathrooms(3).
+
+03.
+![image](https://github.com/lakigit/Home_Sales/assets/138610916/0d427343-fed0-4341-bfb7-b429f60e7ae0)
+
+The following data depicts the average price of houses with three bedrooms, three bathrooms, and two floors, where the total square footage of the living area is greater than or equal to 2000, for each year. The results suggest that there are fluctuations in the average price across the years. 
